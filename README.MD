@@ -34,6 +34,12 @@ Fondations open source
 - Linux
 - Apache
 
+Marchés publics
+- https://labo.societenumerique.gouv.fr/2021/01/17/marches-publics-open-source-et-communs-numeriques/
+- https://documentsmarches.francemobilites.fr/Main archive ouverte de DCE de marchés France Mobilités
+- https://adullact.org/un-informaticien/67-actualite/actu-libre-france/586-guide-de-redaction-des-clauses-marches-publics
+- https://www.economie.gouv.fr/dae/guide-lachat-innovant
+
 Guides
 - guides de la DINUM https://communs.numerique.gouv.fr/guides/
 - https://opensource.guide/ (github qui publie aussi https://docs.github.com/en/communities)
