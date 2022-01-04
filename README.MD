@@ -9,6 +9,7 @@ Organismes
 - https://adullact.org/presse/guide-du-candidat-libre Association du logiciel libre pour les collectivités, basée à Montpellier
 - https://www.april.org/ressources principale association francophone de sensibilisation / promotion du LL, beaucoup de contenu bien organisé
 - https://tosit.fr/ association d'échange sur le LL des grandes entreprises (dont Sncf, etc.)
+- https://opensource.org/osi-open-source-education OSI association US, quelques ressources
 
 Logiciels
 - https://code.gouv.fr/ catalogue de logiciels libres du secteur public français
