@@ -12,7 +12,7 @@ Organismes
 - https://opensource.org/osi-open-source-education OSI association US, quelques ressources
 
 Logiciels
-- https://code.gouv.fr/ catalogue de logiciels libres du secteur public français
+- https://code.gouv.fr/ catalogue de logiciels libres du secteur public français ; le [catalogue tech.gouv](https://catalogue.numerique.gouv.fr/) référence aussi des LL
 - https://comptoir-du-libre.org/fr/ catalogue de logiciels libres de l'Adullact
 - https://sill.etalab.gouv.fr/fr/software Socle de logiciels libres recommandés par l'état
 - https://framalibre.org/ annuaire LL de framasoft
